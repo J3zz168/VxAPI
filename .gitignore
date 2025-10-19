@@ -7,3 +7,4 @@ cli_classes/__pycache__/*.pyc
 *.pyc
 /cli.log
 /cache
+hash/*
